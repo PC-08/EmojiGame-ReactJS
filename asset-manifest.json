@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EmojiGame-ReactJS/static/css/main.1d87d233.chunk.css",
+    "main.js": "/EmojiGame-ReactJS/static/js/main.fe19206d.chunk.js",
+    "main.js.map": "/EmojiGame-ReactJS/static/js/main.fe19206d.chunk.js.map",
+    "runtime-main.js": "/EmojiGame-ReactJS/static/js/runtime-main.c59547a6.js",
+    "runtime-main.js.map": "/EmojiGame-ReactJS/static/js/runtime-main.c59547a6.js.map",
+    "static/js/2.982e0d49.chunk.js": "/EmojiGame-ReactJS/static/js/2.982e0d49.chunk.js",
+    "static/js/2.982e0d49.chunk.js.map": "/EmojiGame-ReactJS/static/js/2.982e0d49.chunk.js.map",
+    "index.html": "/EmojiGame-ReactJS/index.html",
+    "static/css/main.1d87d233.chunk.css.map": "/EmojiGame-ReactJS/static/css/main.1d87d233.chunk.css.map",
+    "static/js/2.982e0d49.chunk.js.LICENSE.txt": "/EmojiGame-ReactJS/static/js/2.982e0d49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c59547a6.js",
+    "static/js/2.982e0d49.chunk.js",
+    "static/css/main.1d87d233.chunk.css",
+    "static/js/main.fe19206d.chunk.js"
+  ]
+}
