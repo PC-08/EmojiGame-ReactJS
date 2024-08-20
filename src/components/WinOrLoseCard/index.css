@@ -1,0 +1,62 @@
+/* Write your code here. */
+.wl-card {
+  display: flex;
+  padding: 20px;
+  background-color: #ffffff33;
+  border: 4px solid #ffffff30;
+  font-family: 'roboto';
+  border-radius: 20px;
+  margin: 100px;
+  align-items: center;
+}
+
+.wl-img {
+  width: 250px;
+  margin-left: 100px;
+}
+
+.wl-head {
+  color: white;
+  font-size: 46px;
+}
+
+.wl-box {
+  text-align: center;
+}
+
+.wl-res {
+  font-size: 24px;
+  color: white;
+  font-weight: bold;
+}
+
+.wl-score {
+  font-size: 36px;
+  font-weight: bold;
+  color: #6a59ff;
+}
+
+.wl-btn {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  font-size: 22px;
+  padding: 10px;
+  border: 0;
+  font-weight: bold;
+  border-radius: 20px;
+}
+
+@media (max-width: 576px) {
+  .wl-card {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    width: 300px;
+  }
+  .wl-img {
+    order: -1;
+    width: 150px;
+    margin-left: 0;
+  }
+}
